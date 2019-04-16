@@ -10,13 +10,11 @@ TwitterApp is a simple Java Web Application similar to the original Twitter. Pro
 - adding new tweets
 - adding comments to the exisitng tweets
 - newest tweets list
-
 ## Screenshots:
 
-<img src="https://i.imgur.com/n5ZsM8p.png" width="250" />  <img src="https://i.imgur.com/G2swcOt.png" width="250" /> 
-<img src="https://i.imgur.com/GdcksoK.png" width="250" />  <img src="https://i.imgur.com/eK8QRVx.png" width="250" /> 
+<img src="https://i.imgur.com/n5ZsM8p.png" width="250" />  <img src="https://i.imgur.com/G2swcOt.png" width="250" />  <img src="https://i.imgur.com/GdcksoK.png" width="250" />
 
-
+<img src="https://i.imgur.com/eK8QRVx.png" width="250" />
 
 ## Used technologies: 
 
