@@ -1,4 +1,4 @@
-# TwitterApp
+# Twitter
 
 TwitterApp is a simple Java Web Application similar to the original Twitter. Project has been created after six modules of CodersLab Java Web Developer bootcamp. 
 
